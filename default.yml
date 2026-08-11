@@ -24,7 +24,7 @@ org_settings:
     org_name: Underwood-GitOps
   fleet_desktop:
     transparency_url:https://catoftheday.com/
-  web_settings:
+  webhook_settings:
     activities_webhook:
       enable_activities_webhook: true
       destination_url: https://webhook.site/0bf783fa-9074-4f45-b6cf-51a0a46e28e2
